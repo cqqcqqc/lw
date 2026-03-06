@@ -81,6 +81,8 @@ cd medical-recommendation-system
 # 安装 Python 依赖
 pip install -r requirements.txt
 
+### 启动项目
+```bash
 # 启动 Flask 服务
 python app.py
 
