@@ -81,27 +81,13 @@ cd medical-recommendation-system
 # 安装 Python 依赖
 pip install -r requirements.txt
 
-### 启动项目
-```bash
+
+启动项目
+
 # 启动 Flask 服务
 python app.py
 
 # 访问地址
 http://127.0.0.1:5000
 
-### 安装依赖
-```bash
-# 克隆项目
-git clone https://github.com/cqqcqqc/medical-recommendation-system.git
-cd medical-recommendation-system
 
-# 安装 Python 依赖
-pip install -r requirements.txt
-
-### 启动项目
-```bash
-# 启动 Flask 服务
-python app.py
-
-# 访问地址
-http://127.0.0.1:5000
